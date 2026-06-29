@@ -100,7 +100,8 @@ Make sure your screenshot is placed in:
 
 ## 👩‍💻 Author
 
-- Your Name
+- Neha Maria Alex
+- B.Tech Computer Science Student
 - GitHub: https://github.com/nehaalexalex345
 
 ```
